@@ -9,3 +9,17 @@ nav {
     color: white;
     padding-left: 20px 50px;
 }
+
+.navTop {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+    background-color: grey;
+    padding: 2opx;
+    border-radius: 10px;
+}
